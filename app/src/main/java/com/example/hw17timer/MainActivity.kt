@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
                     seconds = Integer.valueOf(binding.edTimeForTimer.text.toString())
                     timerFun()
                 }
-
             }
         }
     }
