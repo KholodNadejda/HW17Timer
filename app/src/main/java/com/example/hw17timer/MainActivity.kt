@@ -3,11 +3,7 @@ package com.example.hw17timer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.CountDownTimer
-import android.view.View
-import android.widget.Toast
-import android.widget.Toast.LENGTH_SHORT
 import com.example.hw17timer.databinding.ActivityMainBinding
-import java.lang.Exception
 
 class MainActivity : AppCompatActivity() {
 
